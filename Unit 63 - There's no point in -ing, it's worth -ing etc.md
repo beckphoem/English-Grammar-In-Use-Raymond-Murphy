@@ -140,14 +140,21 @@ We use **go -ing** for sports and other activites. For example:
 > There's no point in having a car if you never use it
 
 2. Why work if you don't need money?
->
+> There's no point in working if you don't need money 
 
 3. Don't try to study if you feel tired.
->
+> It's no good trying to study if you feel tired.
 
 4. Why hurry if you have plenty of time?
->
+> There's no point in hurrying if you have plenty of time.
 
+<details>
+<summary> Click here for Solution</summary>
+
+2. There's no point in working if you don't need money.
+3. There's no point in trying to study if you feel tired.
+4. There's no point in hurrying if you have plenty of time.
+</details>
 # 63.3 Complete the sentences.
 
 1. I managed to get a visa, but it was difficult.
