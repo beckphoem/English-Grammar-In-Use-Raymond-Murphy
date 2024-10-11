@@ -107,13 +107,13 @@ We use **go -ing** for sports and other activites. For example:
 | | |
 |---|---|
 |**1** It's a nice town. | **a** I dont't belive you're sorry|
-|2 It's an interesting idea| b We'll never find him|
-|3 It's no use standing here talking. | c It's not worth gettign a taxi. |
-|4 It's not important | d We have to do something | 
-|5 There's no point in looking for him | e He won't change his opinion|
-|6 It's no good apologising to me| f It's worth spending a few days here|
-|7 It's not worth arguing with him| g It's not worth worrying about|
-|8 The hotel is a short walk from here| h It's worth considering|
+|**2** It's an interesting idea| **b** We'll never find him|
+|**3** It's no use standing here talking. | **c** It's not worth gettign a taxi. |
+|**4** It's not important | **d** We have to do something | 
+|**5** There's no point in looking for him | **e** He won't change his opinion|
+|**6** It's no good apologising to me| **f** It's worth spending a few days here|
+|**7** It's not worth arguing with him| **g** It's not worth worrying about|
+|**8** The hotel is a short walk from here| **h** It's worth considering|
 
 
 # 63.2 Write sentences beginning There's no point ...
