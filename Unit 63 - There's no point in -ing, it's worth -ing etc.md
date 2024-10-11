@@ -115,6 +115,23 @@ We use **go -ing** for sports and other activites. For example:
 |**7** It's not worth arguing with him| **g** It's not worth worrying about|
 |**8** The hotel is a short walk from here| **h** It's worth considering|
 
+<details>
+<summary> Click here for Solution</summary>
+
+1. It's a nice town. 
+
+2. It's an interesting idea. `h` It's worth considering.
+
+3. It's no use standing here talking. `d` We have to do something.
+
+4. It's not important. `g` It's not worth worrying about.
+
+5. There's no point in looking for him. `b` We'll never find him.
+
+6. It's no good apologising to me. `a` I don't belive you're sorry
+
+7. It's not worth arguing 
+</details>
 
 # 63.2 Write sentences beginning There's no point ...
 1. Why have a car if you never use it?
