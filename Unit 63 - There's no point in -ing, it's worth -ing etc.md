@@ -155,22 +155,38 @@ We use **go -ing** for sports and other activites. For example:
 3. There's no point in trying to study if you feel tired.
 4. There's no point in hurrying if you have plenty of time.
 </details>
+
 # 63.3 Complete the sentences.
 
 1. I managed to get a visa, but it was difficult.
-> I had a problemm ** **.
+> I had a problem ** **.
 
 2. I find it hard to remember people's names.
-> I have a problem ** **
+> I have a problem **remembering people's names**
 
 3. Lucy found a job easily. It wasn't a problem.
-> She had no trouble ** **
+> She had no trouble **finding a job**
 
 4. It will be easy to get a ticker for the game.
-> You won't have any problems ** **.
+> You won't have any problems **getting a ticker for the game**.
 
 5. It was easy for us to understand one another.
-> We had no difficulty ** **.
+> We had no difficulty **understanding one another**.
+
+<details>
+<summary> Click here for Solution</summary>
+
+1. I had a problem getting a visa.
+
+2. I have a problem remembering people's names.
+
+3. She had no trouble finding a job.
+
+4. You won't have any problems getting a ticker for the game.
+
+5. We had no difficulty understanding one another.
+
+</detaisl>
 
 # 63.4 Complete the sentences. Use only one word each time.
 
