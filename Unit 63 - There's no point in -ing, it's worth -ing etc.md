@@ -192,23 +192,23 @@ We use **go -ing** for sports and other activites. For example:
 
 1. I waste a lot of time `doing` nothing.
 
-2. How much time do you spend `---` to and from work every day?
+2. How much time do you spend `going` to and from work every day?
 
-3. Karen is going on holiday tomorrow, so shes's busy `---` her things ready.
+3. Karen is going on holiday tomorrow, so shes's busy `getting` her things ready.
 
-4. I waste too much time `---` TV.
+4. I waste too much time `watching` TV.
 
-5. There was a beautiful view from the hill. It was worth `---` to the top.
+5. There was a beautiful view from the hill. It was worth `climbing` to the top.
 
-6. We need to stay calm. There's no point in `---` angry.
+6. We need to stay calm. There's no point in `getting` angry.
 
-7. Amy is learning to play the guitar. She spends a lot of time `---`.
+7. Amy is learning to play the guitar. She spends a lot of time `practising`.
 
-8. Gary is enjoying his new job. He's busy `---` on a new project.
+8. Gary is enjoying his new job. He's busy `working` on a new project.
 
-9. I decided it wasn't worth `---` for the job. I had no chance of getting it.
+9. I decided it wasn't worth `applying` for the job. I had no chance of getting it.
 
-10. It's no good `---` to escape. You won't be able to get out of here.
+10. It's no good `trying` to escape. You won't be able to get out of here.
 
 # 63.5 Complete these sentences. Choose from the following and put the verb in the correct form.
 
