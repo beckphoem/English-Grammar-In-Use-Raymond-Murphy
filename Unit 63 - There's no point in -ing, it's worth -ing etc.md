@@ -194,7 +194,7 @@ We use **go -ing** for sports and other activites. For example:
 
 2. How much time do you spend `going` to and from work every day?
 
-3. Karen is going on holiday tomorrow, so shes's busy `getting` her things ready.
+3. Karen is going on holiday tomorrow, so she's busy `getting` her things ready.
 
 4. I waste too much time `watching` TV.
 
@@ -215,9 +215,9 @@ We use **go -ing** for sports and other activites. For example:
 |go riding | go sailing| go shopping| go skiing | go swimming|
 |---|---|---|---|---|
 1. Ben lives by the sea and he's got a boat, so he often `goes sailing`.
-2. It was a very hot day, so we `---` in the lake.
-3. There's plenty of snow in the mountains, so we'll be able to `---`.
-4. Helen has two horses. She `---` regularly.
-5. Dan isn't here. He `---` . There were a few things he needed to buy.
+2. It was a very hot day, so we `went swimming` in the lake.
+3. There's plenty of snow in the mountains, so we'll be able to `go skiing`.
+4. Helen has two horses. She `goes riding` regularly.
+5. Dan isn't here. He `went shopping` . There were a few things he needed to buy.
 
 
