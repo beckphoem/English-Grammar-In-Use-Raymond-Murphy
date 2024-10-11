@@ -103,3 +103,59 @@ We use **go -ing** for sports and other activites. For example:
 # Exercises
 
 # 63.1 Which goes with which?
+
+| | |
+|---|---|
+|**1** It's a nice town. | **a** I dont't belive you're sorry|
+|2 It's an interesting idea| b We'll never find him|
+|3 It's no use standing here talking. | c It's not worth gettign a taxi. |
+|4 It's not important | d We have to do something | 
+|5 There's no point in looking for him | e He won't change his opinion|
+|6 It's no good apologising to me| f It's worth spending a few days here|
+|7 It's not worth arguing with him| g It's not worth worrying about|
+|8 The hotel is a short walk from here| h It's worth considering|
+
+
+# 63.2 Write sentences beginning There's no point ...
+1. Why have a car if you never use it?
+> There's no point in having a car if you never use it
+
+2. Why work if you don't need money?
+>
+
+3. Don't try to study if you feel tired.
+>
+
+4. Why hurry if you have plenty of time?
+>
+
+# 63.3 Complete the sentences.
+
+1. I managed to get a visa, but it was difficult.
+> I had a problemm ** **.
+
+2. I find it hard to remember people's names.
+I have a problem 
+
+
+# Information Form
+
+## Personal Information
+
+- **Full Name**: [Enter your full name]
+- **Date of Birth**: [Enter your date of birth]
+- **Email Address**: [Enter your email address]
+- **Phone Number**: [Enter your phone number]
+
+## Address
+
+- **Street Address**: [Enter your street address]
+- **City**: [Enter your city]
+- **State/Province**: [Enter your state/province]
+- **Postal Code**: [Enter your postal code]
+
+## Additional Information
+
+- **Preferred Contact Method**: [Phone/Email]
+- **Comments**:  
+  [Enter any additional comments here]
