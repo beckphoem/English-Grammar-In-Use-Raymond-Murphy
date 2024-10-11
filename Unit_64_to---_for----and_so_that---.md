@@ -5,7 +5,7 @@ We say
 - I called the restaurant **to reserve** a table.
 - What do you need **to make** bread?
 - We shouted **to warn** everybody of the danger.
-- This letter is **to confirm** the decisions we made at our meeting last wekk.
+- This letter is **to confirm** the decisions we made at our meeting last week.
 - The president has a team of  bodyguards **to protect** him.
 
 In these examples ***to*** ...(**to reserve** .../ **to make**... etc) tells us the purpose of something: why somebody does something, has something, needs something etc., or why something exists.
