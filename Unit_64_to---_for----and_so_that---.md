@@ -53,6 +53,7 @@ You can use **What...for**? to ask about purpose:
 
 # D
 **so that**
+
 We use **so that** (not **to**...) especially with **can/could** and **will/would**:
 - She's learning English **so that** she **can** study in Canada.
 - We moved to London **so that** we **could** see our friends more often.
