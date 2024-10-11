@@ -135,27 +135,47 @@ We use **go -ing** for sports and other activites. For example:
 > I had a problemm ** **.
 
 2. I find it hard to remember people's names.
-I have a problem 
+> I have a problem ** **
+
+3. Lucy found a job easily. It wasn't a problem.
+> She had no trouble ** **
+
+4. It will be easy to get a ticker for the game.
+> You won't have any problems ** **.
+
+5. It was easy for us to understand one another.
+> We had no difficulty ** **.
+
+# 63.4 Complete the sentences. Use only one word each time.
+
+1. I waste a lot of time `doing` nothing.
+
+2. How much time do you spend `---` to and from work every day?
+
+3. Karen is going on holiday tomorrow, so shes's busy `---` her things ready.
+
+4. I waste too much time `---` TV.
+
+5. There was a beautiful view from the hill. It was worth `---` to the top.
+
+6. We need to stay calm. There's no point in `---` angry.
+
+7. Amy is learning to play the guitar. She spends a lot of time `---`.
+
+8. Gary is enjoying his new job. He's busy `---` on a new project.
+
+9. I decided it wasn't worth `---` for the job. I had no chance of getting it.
+
+10. It's no good `---` to escape. You won't be able to get out of here.
+
+# 63.5 Complete these sentences. Choose from the following and put the verb in the correct form.
+
+|go riding | go sailing| go shopping| go skiing | go swimming|
+|---|---|---|---|---|
+1. Ben lives by the sea and he's got a boat, so he often `goes sailing`.
+2. It was a very hot day, so we `---` in the lake.
+3. There's plenty of snow in the mountains, so we'll be able to `---`.
+4. Helen has two horses. She `---` regularly.
+5. Dan isn't here. He `---` . There were a few things he needed to buy.
 
 
-# Information Form
-
-## Personal Information
-
-- **Full Name**: [Enter your full name]
-- **Date of Birth**: [Enter your date of birth]
-- **Email Address**: [Enter your email address]
-- **Phone Number**: [Enter your phone number]
-
-## Address
-
-- **Street Address**: [Enter your street address]
-- **City**: [Enter your city]
-- **State/Province**: [Enter your state/province]
-- **Postal Code**: [Enter your postal code]
-
-## Additional Information
-
-- **Preferred Contact Method**: [Phone/Email]
-- **Comments**:  
-  [Enter any additional comments here]
