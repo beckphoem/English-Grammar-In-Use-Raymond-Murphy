@@ -186,7 +186,7 @@ We use **go -ing** for sports and other activites. For example:
 
 5. We had no difficulty understanding one another.
 
-</detaisl>
+</details>
 
 # 63.4 Complete the sentences. Use only one word each time.
 
