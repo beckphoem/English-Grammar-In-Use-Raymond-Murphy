@@ -189,3 +189,21 @@ You can leave out **that**. So you can say:
 7. I slowed down. I wanted the car behind me to be able to overtake.
 > I slowed down `---`.
 
+<details>
+<summary> Click here for Solution</summary>
+
+1. 
+
+2. I wore warm clothes so that I wouldn't `get/be` cold.
+
+3. I gave Mark my phone number `so that he could contact me./would be able to contact me`
+
+4. We spoke very quitely `so that` nobody else `could/would` hear us. 
+
+5. Please arrive early so that `we can start the meeting on time/ we'll be able to start`
+
+6. We made a list of things to do `so that we wouldn't forget anything`
+
+7. I slowed down `so that the car behind me could overtake / would be able to overtake`
+
+</details>
