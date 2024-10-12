@@ -192,7 +192,7 @@ You can leave out **that**. So you can say:
 <details>
 <summary> Click here for Solution</summary>
 
-1. 
+1. I hurried so that I wouldn't be late
 
 2. I wore warm clothes so that I wouldn't `get/be` cold.
 
