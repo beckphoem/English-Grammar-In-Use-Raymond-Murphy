@@ -76,8 +76,8 @@ You can leave out **that**. So you can say:
 |6. I called the hotel| I wanted to chop the onions|
 |7. I employed an assistant | I wanted to find out if they had any rooms free|
 
-> 1.
-> 2.
+> 1. I opened the box to see what was in it 
+> 2. 
 > 3.
 > 4.
 > 5. 
@@ -87,19 +87,19 @@ You can leave out **that**. So you can say:
 <details >
 <summary>Click here for Solution </summary>
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. I shouted to want people of the danger.
+2. I opened the box to see what was in it.
+3. I moved to a new apartment to be nearer my friends
+4. I couldn't find a knife to chop the onions.
+5. I called the police to report the accident
+6. I called the hotel to find out if they had any rooms free
+7. I employed an assistant to help me with my work
 
 </details>
 
 # 64.2 Complete these sentences using `to` + a suitable verb.
 1. The president has a team of bodyguards `to protect` him.
-2. I don't have enought time `---` all the things I have to do.
+2. I don't have enough time `---` all the things I have to do.
 3. I came home by taxi. I didn't have the energy `---`.
 4. Would you like somthing `--` ? Coffee? Tea?
 5. Can you give me a bag `---` these things in?
@@ -114,18 +114,30 @@ You can leave out **that**. So you can say:
 <details>
 <summary> Click here for Solution</summary>
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
+1. The president has a team of bodyguards `to protect` him.
+
+2. I don't have enough time `to do` all the things I have to do.
+
+3. I came home by taxi. I didn't have the energy `to walk`
+
+4. Would you like something `to drink`? Coffee? Tea?
+
+5. Can you give me a bag `to put / to carry` these things in? 
+
+6. There will be a meeting next week `to discuss/ to consider/ to talk about` the prolem.
+
+7.  Do you need a visa `to go / to travel` to the United States?
+
+8. I saw Helen at the party, but I didn't have a change `to walk/ to speak` to her.
+
+9. I need some new clothes. I don't have anything nice `to wear/ to put on`
+
+10. They've passed their exams. They're going to have a party `to celebrate`.
+
+11. I can't do all this work alone. I need somebody `to help/ to assist` me.
+
+12. Why are you so scared? There's nothing `to be` afraid of.
+
 </details>
 
 # 64.3  Put in `to` or `for`
@@ -140,16 +152,24 @@ You can leave out **that**. So you can say:
 8. I wish we had a garden `---` the children `---` play in.
 
 <details>
-<summary> Click here for Solution</summmary>
+<summary> Click here for Solution</summary>
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+1. We stopped `for` petrol.
+
+2. We'll need time `to` make a decision.
+
+3. I went to the dentist `for` a check-up.
+
+4. He's very old. He needs somebody `to` take care of him.
+
+5. Do you lend me money `for` a taxi
+
+6. Do you wear glasses `for` reading?
+
+7.  I put on my glasses `to` read the letter.
+
+8. I wish we had a garden `for` the children `to` play in.
+
 </details>
 
 # 64.4 Make one sentence from two, using **so that**
