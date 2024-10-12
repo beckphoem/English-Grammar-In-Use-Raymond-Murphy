@@ -61,3 +61,111 @@ We use **so that** (not **to**...) especially with **can/could** and **will/woul
 
 You can leave out **that**. So you can say:
 - I hurried **so that**I wouldn't be late or I hurried **so** I wouldn't be late.
+
+# Excercises
+
+# 64.1 Choose from Box A and Box B to make sentences with `to...`
+
+|A| B|
+|---|---|
+|1. I shouted | I wanted to be nearer my friends|
+|2. I opened the box | I wanted someone to help me with my work|
+|3. I moved to a new apartment| I wanted to report the accident|
+|4. I couldn't find a knife |  I wanted to warn people of the danger|
+|5. I called the police| I wanted to see what was in it|
+|6. I called the hotel| I wanted to chop the onions|
+|7. I employed an assistant | I wanted to find out if they had any rooms free|
+
+> 1.
+> 2.
+> 3.
+> 4.
+> 5. 
+> 6.
+> 7.
+
+<details >
+<summary>Click here for Solution </summary>
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+</details>
+
+# 64.2 Complete these sentences using `to` + a suitable verb.
+1. The president has a team of bodyguards `to protect` him.
+2. I don't have enought time `---` all the things I have to do.
+3. I came home by taxi. I didn't have the energy `---`.
+4. Would you like somthing `--` ? Coffee? Tea?
+5. Can you give me a bag `---` these things in?
+6. There will be a meeting next week `---` the problem.
+7. Do you need a visa `---` to the United States?
+8. I saw Helen at the party, but I didn't have a change `---` to her.
+9. I need some new clothes. I don't have anything nice `---`.
+10. They've passed their exams. They're going to have a party `---`.
+11. I can't do all this work alone. I need somebody `---` me.
+12. Why are you so scared? There's nothing `---` afraid of.
+
+<details>
+<summary> Click here for Solution</summary>
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+</details>
+
+# 64.3  Put in `to` or `for`
+
+1. We stopped `for` petrol.
+2. We'll need time `---` make a decision.
+3. I went to the dentist `---` a check-up.
+4. He's very old. He needs somebody `---` take care of him.
+5. Can you lend me money `---` a taxi?
+6. Do you wear glasses `---` reading?
+7. I put on my glasses `---` read the letter.
+8. I wish we had a garden `---` the children `---` play in.
+
+<details>
+<summary> Click here for Solution</summmary>
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+</details>
+
+# 64.4 Make one sentence from two, using **so that**
+
+1. I hurried. I didn't want to be late.
+> I hurried `...`
+2. I wore warm clothes. I didn't want to get cold.
+> I wore warm clothes `...`
+3. I gave Mark my phone number. I wanted him to be able to contact me.
+> I gave Mark my phone number `---`
+4. We spoke very quitely. We didn't want anybody else to hear us.
+> We spoke very quitely `---` nobody else `---`.
+5. Please arrive early. We want to be able to start the meeting on time.
+> Please arrive early `---`
+6. We made a list of things to do. We didn't want to forget anything.
+> We made a list of things to do `---`
+7. I slowed down. I wanted the car behind me to be able to overtake.
+> I slowed down `---`.
+
