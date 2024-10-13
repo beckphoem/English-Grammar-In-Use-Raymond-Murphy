@@ -40,6 +40,7 @@ We say "It's **nice of** somebody **to**...":
 - It was nice of you to take me to the airport. Thank you very much.
 
 We use other adjectives in the same way. For example:
+
 **kind generous careless silly stupid inconsiderate unfair typical**
 
 - It's **silly of Ruth to give** up her job when she needs the money.
@@ -72,7 +73,7 @@ You can use **to**.. after **the next/ the last/ the only/ the first/ the second
 
 # E
 
-You can say that something is **sure/ likely/ bound to**happen:
+You can say that something is **sure/ likely/ bound to** happen:
 
 - Carla is a very good student. She's **bound to pass** the exam (= she is sure to pass)
 
@@ -122,4 +123,22 @@ You can say that something is **sure/ likely/ bound to**happen:
 4. I wonder why she said that (strange thing / say)
 
 > ` - `
+
+# 65.3 Complete the sentences. Choose from the box.
+
+- to hear
+- to help
+- ~~to invite~~
+- to make 
+- not
+- of you
+- silly
+- amazed
+- glad
+1. It's nice of Dan and Kate `to invite` me to their party.
+
+2. I've been travelling a long time. Now I'm `---` to be back home.
+
+3. I heard about Tom's accident. I was relieved `---` that he's OK.
+
 
