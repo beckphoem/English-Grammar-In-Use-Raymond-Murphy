@@ -77,3 +77,49 @@ You can say that something is **sure/ likely/ bound to**happen:
 - Carla is a very good student. She's **bound to pass** the exam (= she is sure to pass)
 
 - It's possible I'll win the lottery one day, but it's not **likely to happen** (= it's not probale )
+
+# Exercises
+
+# 65.1 Write these sentences in another way, beginning as shown.
+
+1. It's hard to understand some things.
+> Some things `are hard to understand`.
+
+2. It was difficult to open the window.
+
+> The window `---`
+
+3. It's impossible to translate some words. 
+
+> Some words `---`
+
+4. It's expensive to maintain a car.
+
+> A `---`
+
+5. It's not safe to eat this meat.
+
+> This `---`
+
+6. It's easy to get to my house from here.
+
+> My `-`
+
+# 65.2 Make sentences from the words in brackets.
+
+1. I couldn't answer the question. (difficult question / answer)
+
+> `It was a difficult question to answer`.
+
+2. It's a very common mistake. (easy mistake / make )
+
+> It's `-`
+
+3. I like living in this town. (great place / live)
+
+> `-`
+
+4. I wonder why she said that (strange thing / say)
+
+> ` - `
+
